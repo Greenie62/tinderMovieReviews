@@ -1,0 +1,60 @@
+[{
+    "name":"Amanda Jacobs",
+    "pic":"assets/girls/girl.jpeg",
+    "city":"Los Angeles",
+    "age":22
+},
+{
+     "name":"Sarah Evans",
+     "pic":"assets/girls/girl2.jpeg",
+     "city":"Los Angeles",
+     "age":21
+},
+{
+    "name":"Courtney Amber",
+    "pic":"assets/girls/girl3.jpeg",
+    "city":"Las Vegas",
+    "age":29
+},
+{
+     "name":"Kylie Jenner",
+     "pic":"assets/girls/girl4.jpeg",
+     "city":"San Diego",
+     "age":26
+},
+{
+    "name":"Ariana Grande",
+    "pic":"assets/girls/girl5.jpeg",
+    "city":"Los Angeles",
+    "age":24
+},
+{
+     "name":"Sarah Gellar",
+     "pic":"assets/girls/girl6.jpeg",
+     "city":"Seattle",
+     "age":22
+},
+{
+    "name":"Tiffany Amber",
+    "pic":"assets/girls/girl7.jpg",
+    "city":"San Fransico",
+    "age":23
+},
+{
+     "name":"Mandy Grande",
+     "pic":"assets/girls/girl8.jpeg",
+     "city":"Las Vegas",
+     "age":27
+},
+{
+    "name":"Jasmine Vasquez",
+    "pic":"assets/girls/girl9.jpeg",
+    "city":"Los Angeles",
+    "age":25
+},
+{
+     "name":"Elise Mailey",
+     "pic":"assets/girls/girl10.jpeg",
+     "city":"Miami",
+     "age":21
+}]
